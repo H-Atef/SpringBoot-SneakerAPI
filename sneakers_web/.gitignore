@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore .csv files
+*.csv
+
+# Ignore .json files
+*.json
+
+# Ignore Django migrations
+**/migrations/
+
+# Ignore SQLite and database files
+*.sqlite3
+*.db
